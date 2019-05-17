@@ -1,2 +1,12 @@
-# AngularAdvanced
-practice on 2018/05/26
+# Work Time Record
+---
+
+##May
+---
+
+日付|1|2|3|
+--|--|--|--
+曜日|水|木|金
+出勤|||
+退勤|||
+時間数
