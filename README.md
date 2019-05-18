@@ -1,4 +1,4 @@
-# Work Time Record
+# Work Time Sheet
 
 ## May
 ---
